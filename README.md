@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nezerwa Eligrand</h1>
-<p align="center">Hi, I'm Nezerwa Eligrand, a full-stack engineer with 3+ years of experience in HTML, CSS, JavaScript, React-Redux, Node JS, and Ruby. I've honed my skills through various boot camps and hands-on projects, and am proficient in web development from design to deployment. I possess strong technical, problem-solving, and communication skills and am familiar with software development best practices and source code control systems. My unique ability to work across the entire stack sets me apart, allowing me to bridge the gap between technical and business aspects. I am highly organized, detail-oriented, and a quick learner of new technologies. I have a passion for creating functional and beautiful web applications and would love the opportunity to contribute to the team that created the essential remote collaboration tool, Zoom. Please review my Github and portfolio to get a comprehensive understanding of my capabilities. Let's work together to bring your ideas to life!</p>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nezerwa&label=Profile%20views&color=0e75b6&style=flat" alt="nezerwa" /> </p>
 
