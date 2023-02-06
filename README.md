@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nezerwa Eligrand</h1>
 <h3 align="center">A passionate Fullstack Developer </h3>
 
-const asiatiMagana = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["Magana Mwinja Asiati"],
-  code: [JavaScript, C++, HTML/CSS, Semantic UI, Bootstrap],
-  askMeAbout: [Chihuahuas, The 1999, food recipes, renovation shows],
-  challenge: "I take great pleasure in hands-on experience, Collaboration and teamwork.",
-  funFacts: ['I have 6month of remote work experience with devs
-  from all over the world', 
-  'Responsive and dynamic website design is my passion and goal. I have hands-on experience in cpanel web adminstration ,I have also great communication skills and remote collaboration skills through pair programming. I have so much passion in learning technologies that border fullstack web development.']
-
-}
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nezerwa&label=Profile%20views&color=0e75b6&style=flat" alt="nezerwa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nezerwa" alt="nezerwa" /></a> </p>
