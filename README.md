@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/nezerwa" target="blank"><img src="https://img.shields.io/twitter/follow/nezerwa?logo=twitter&style=for-the-badge" alt="nezerwa" /></a> </p>
 
-- 🔭 I’m currently working on [Todolist-app](https://github.com/Nezerwa/Todolist-app)
+- 🔭 I’m currently working on [Ojemba-Vlm-Project](https://github.com/Nezerwa/Ojemba-VLM-Project)
 
-- 🌱 I’m currently learning **React, Ruby on Rails**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate **on open source projects**
 
