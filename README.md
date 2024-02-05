@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nezerwa" target="blank"><img src="https://img.shields.io/twitter/follow/nezerwa?logo=twitter&style=for-the-badge" alt="nezerwa" /></a> </p>
 
-- 🔭 I’m currently working on [Ojemba-Vlm-Project](http://staging.purple.monishare.ojemba.s3-website.eu-central-1.amazonaws.com/user)
+- 🔭 I’m currently working on [Monishare car renting](http://staging.purple.monishare.ojemba.s3-website.eu-central-1.amazonaws.com/user)
 
 - 🌱 I’m currently learning **Nest js**
 
